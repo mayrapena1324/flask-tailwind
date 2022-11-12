@@ -1,4 +1,4 @@
-### Tailwind + Flask
+# flask-tailwind
 To use this template run the following commands for:
 
 ```

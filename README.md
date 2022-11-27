@@ -1,4 +1,6 @@
 ### Tailwind + Flask
+### Tutorial at [YouTube](https://youtu.be/y2h_dW_j5cg)
+
 To use this template run the following commands for:
 
 ```
